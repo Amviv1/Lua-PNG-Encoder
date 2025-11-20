@@ -1,5 +1,3 @@
-This module was fully created by me, @Viv3k_87 on Discord
-
 The module will prodcue a compressed PNG image file given the RGB values.
 The values are compressed using the DEFLATE compression algorithim as per the PNG standard. The Deflate function produces a fully valid Zlib stream.
 
